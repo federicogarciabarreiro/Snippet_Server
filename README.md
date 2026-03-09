@@ -1,4 +1,4 @@
-# Portfolio Snippets (Server Project)
+# Snippets (Server Project)
 
 ## ES - Que es esta carpeta
 Esta carpeta contiene muestras publicas de codigo del proyecto servidor.
